@@ -1,0 +1,4 @@
+v1.0:
+- Creating the branch
+- Adding Readme file
+- Adding changelog file
