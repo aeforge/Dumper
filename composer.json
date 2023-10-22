@@ -3,6 +3,7 @@
     "description": "AEForge dumper component. Providing better dump function for any PHP variable",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Aeforge\\Dumper\\": "src/"
@@ -18,6 +19,6 @@
     ],
     "require": {
         "php": ">=8.0.0"
-      },
+    },
     "minimum-stability": "stable"
 }
