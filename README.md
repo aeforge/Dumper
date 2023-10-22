@@ -36,3 +36,11 @@ use Aeforge\Dumper\Dumper;
 $dumper = new Dumper($_SERVER);
 $dumper->dumpAndDie();
 ```
+
+## Global Functions
+
+The following are functions that can be accessed globaly and will do the same as Calling the dumper class
+```php
+  dd() //Will dump and die
+  dump() //Will dump only without exiting
+```
